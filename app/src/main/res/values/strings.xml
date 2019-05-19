@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recycler View Feed</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_dash">Dashboard</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_share">492K Views \u2022 46 Shares</string>
+
+    <string name="view_match">26 February 2019 \u2022 2 PM \u2022 New Delhi</string>
+    <string name="post_heading"> <b>Roots Premier League</b> \n 3 hours ago</string>
+</resources>
